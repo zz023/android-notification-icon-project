@@ -5233,5 +5233,13 @@
     "color": "#00C157",
     "overlay": false,
     "contributors": "fankes, keyanemo"
+  },
+    "com.smjcco.wxpusher": {
+    "label": "wxpusher",
+    "format": "png",
+    "color": "#B300B3",
+    "overlay": false,
+    "contributors": "zz023"
   }
+  
 }
