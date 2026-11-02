@@ -12,7 +12,15 @@
     "format": "png",
     "color": "#FF0000",
     "overlay": false,
-    "contributors": "zz023"}
-
+    "contributors": "zz023"  
+      },
+      
+      "com.divotguard.com": {
+    "label": "divotguard",
+    "format": "png",
+    "color": "#038BF1",
+    "overlay": false,
+    "contributors": "zz023"
+      }
   
 }
